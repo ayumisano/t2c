@@ -1,0 +1,5 @@
+[2020-9-16 09:25:47] layer "T2C.inc FOR EXCEED": Expected end of input but "F" found.
+[2020-9-16 09:25:47] layer "menu_bar.jpg": Duplicate path: menu_bar.jpg
+[2020-9-16 09:25:47] layer "T2C.inc FOR EXCEED": Expected end of input but "F" found.
+[2020-9-16 09:25:47] layer "T2C.inc FOR EXCEED": Expected end of input but "F" found.
+[2020-9-16 09:25:47] layer "T2C.inc FOR EXCEED": Expected end of input but "F" found.
